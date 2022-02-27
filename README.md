@@ -1,5 +1,4 @@
-This is my assignment
-
+This is my assignment         
 I learned.
 Repository initialization.
 Adding files to git.
